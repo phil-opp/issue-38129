@@ -1,0 +1,6 @@
+[package]
+name = "issue-38129"
+version = "0.1.0"
+authors = ["Philipp Oppermann <dev@phil-opp.com>"]
+
+[dependencies]
